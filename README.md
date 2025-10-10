@@ -111,10 +111,9 @@ python reactions.py
 ## Important Notes
 
 - **Always review content before running**: The scripts will delete content, so make sure you want to delete it
-- **Community posts are preserved**: Posts made to groups/communities will be skipped (posts script only)
 - **Rate limiting**: The scripts include delays to avoid being blocked by LinkedIn
 - **Manual login required**: You'll need to log in to LinkedIn manually when the browser opens
-- **First item preservation**: Each script preserves the first item by default (posts/comments)
+- **First item preservation**: Each script preserves the first item by default (you can configure/remove this pretty easily) (posts/comments)
 
 ## Troubleshooting
 
