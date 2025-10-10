@@ -16,7 +16,6 @@ Automatically removes likes/reactions from your LinkedIn posts and comments.
 ## Features
 
 ### Posts Deleter
-- Automatically detects and skips community group posts
 - Deletes regular posts by clicking the "..." menu and selecting delete
 - Preserves the first post (configurable)
 - Page refresh every 50 deletions to clear old content
