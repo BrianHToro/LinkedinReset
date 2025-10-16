@@ -78,9 +78,9 @@ python reactions.py
 
 ## Default URLs
 
-- **Posts**: `https://www.linkedin.com/in/brianahanna/recent-activity/all/`
-- **Comments**: `https://www.linkedin.com/in/brianahanna/recent-activity/comments/`
-- **Reactions**: `https://www.linkedin.com/in/brianahanna/recent-activity/`
+- **Posts**: `https://www.linkedin.com/in/[username]/recent-activity/all/`
+- **Comments**: `https://www.linkedin.com/in/[username]/recent-activity/comments/`
+- **Reactions**: `https://www.linkedin.com/in/[username]/recent-activity/`
 
 ## Key Features
 
